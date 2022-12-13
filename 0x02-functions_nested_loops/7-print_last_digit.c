@@ -5,8 +5,9 @@
  * @n: the number
  * Return: value of the last digit
  */
-int print_last_digit(int n)
+int print_last_digit(98)
 {
+	int n;
 	int ld = n % 10;
 
 	if (ld < 0)
