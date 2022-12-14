@@ -21,8 +21,8 @@ int main(void)
 		{
 			printf(", ");
 		}
-		i++
+		i++;
 	}
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
