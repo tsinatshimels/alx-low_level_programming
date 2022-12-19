@@ -16,5 +16,5 @@ void puts2(char *str)
 		else
 			continue;
 	}
-	_putcha('\n');
+	_putchar('\n');
 }
